@@ -8,7 +8,7 @@ replicaCount: 1
 image:
   # -- The repository of the container image
   # <!-- # pragma: allowlist secret -->
-  repository: "061089524335.dkr.ecr.eu-west-1.amazonaws.com/ethadapter"  # pragma: allowlist secret
+  repository: "pharmaledger/ethadapter"  # pragma: allowlist secret
   # -- Image Pull Policy
   pullPolicy: Always
   # -- Overrides the image tag whose default is the chart appVersion.
