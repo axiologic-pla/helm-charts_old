@@ -1859,6 +1859,17 @@ entries:
   quorum-node:
   - apiVersion: v2
     appVersion: 23.4.0
+    created: "2023-08-24T13:31:51.733166816Z"
+    description: A Helm chart for the deployment of the quorum node on Kubernetes
+      supporting new-network, join-network and update-partners-info use cases.
+    digest: 7bf367729bd4dccedf0ee3db9b91fc2a9978723ecb901840c51eb324d5c6c44a
+    name: quorum-node
+    type: application
+    urls:
+    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.6.12/quorum-node-0.6.12.tgz
+    version: 0.6.12
+  - apiVersion: v2
+    appVersion: 23.4.0
     created: "2023-08-24T12:29:29.843854236Z"
     description: A Helm chart for the deployment of the quorum node on Kubernetes
       supporting new-network, join-network and update-partners-info use cases.
@@ -2448,4 +2459,4 @@ entries:
     urls:
     - https://github.com/axiologic-pla/helm-charts/releases/download/standalone-quorum-0.3.0/standalone-quorum-0.3.0.tgz
     version: 0.3.0
-generated: "2023-08-24T12:29:29.844738244Z"
+generated: "2023-08-24T13:31:51.734278335Z"
