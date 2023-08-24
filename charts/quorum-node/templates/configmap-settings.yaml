@@ -75,7 +75,7 @@ data:
           }
         ],
         "chainId": 10,
-        "isQuorum": true,
+        "isQuorum": false,
         "istanbul": {
           "epoch": 30000,
           "policy": 0
