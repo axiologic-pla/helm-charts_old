@@ -15,7 +15,7 @@ config:
   # -- A CompanyName which is displayed on the web page.
   companyName: "Company Inc"
   # -- Secret Pass Phrase for de/encrypting private keys for application wallets created by builder.
-  buildSecretKey: ""
+  buildSecretKey: "test"
   # -- The epi version
   epiVersion: "2023.1.0"
   overrides:
@@ -88,9 +88,6 @@ runner:
     # Default to v1.3.1
     # <!-- # pragma: allowlist secret -->
     sha: "407dad9208fd36aca61c76cca7bdca6ba4ce97552e783064c4d8e98be1ceb36c"  # pragma: allowlist secret
-
-  # -- The number of replicas for the runner
-  replicaCount: 1
 
   # -- Annotations added to the runner pod
   podAnnotations: {}
@@ -211,6 +208,9 @@ builder:
     runAsUser: 1000
     runAsGroup: 1000
     allowPrivilegeEscalation: false
+
+leafletReader:
+  replicaCount: 1
 
 # Settings for Containers with kubectl installed used by Jobs "pre-builder", "pre-upgrade-volumesnapshot", "final-volumesnapshot" and "cleanup"
 kubectl:

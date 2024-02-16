@@ -43,5 +43,12 @@ data:
 {{ include "epi.apihubJson" . | b64enc | indent 4 }}
 {{- end }}
 
+  readOnlyApihub.json: |-
+{{- if .Values.config.overrides.apihubJson }}
+{{ .Values.config.overrides.readOnlyApihubJson | b64enc | indent 4 }}
+{{- else }}
+{{ include "epi.readOnlyApihubJson" . | b64enc | indent 4 }}
+{{- end }}
+
 {{- end }}
 {{- end }}
