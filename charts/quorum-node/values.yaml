@@ -1,19 +1,3 @@
-# Default values.
-# This is a YAML-formatted file.
-# Declare variables to be passed into your templates.
-
-image: {}
-  #  # -- The repository of the Quorum container image
-  #  repository: quorumengineering/quorum
-  #  # -- Image Pull Policy
-  #  pullPolicy: Always
-  #  # -- Image tag
-  #  tag: "23.4.0"
-  #  # -- sha256 digest of the image.
-  #  # Do not add the prefix "@sha256:".
-  #  # <!-- # pragma: allowlist secret -->
-  #  sha: "bab0a966b3dedeb102b402ba86c1fc02050416f2ce6d153356342fcc9424456e"  # pragma: allowlist secret
-
 ## -- The strategy of the deployment. Defaults to Recreate as a PVC is bound to it.
 ## See `kubectl explain deployment.spec.strategy` for more and [https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#strategy](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#strategy)
 deploymentStrategy:
