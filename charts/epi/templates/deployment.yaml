@@ -111,6 +111,10 @@ spec:
             subPath: dsu-explorer-environment.js
             readOnly: true
           - name: epi-env-volume
+            mountPath: /ePI-workspace/apihub-root/dsu-fabric/environment.js
+            subPath: dsu-fabric-environment.js
+            readOnly: true
+          - name: epi-env-volume
             mountPath: /ePI-workspace/trust-loader-config/dsu-fabric-wallet/loader/environment.js
             subPath: dsu-fabric-environment.js
             readOnly: true

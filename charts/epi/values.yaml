@@ -10,6 +10,8 @@ config:
   subDomain: "epipoc.my-company"
   # -- The Vault domain, should be vault.company, e.g. vault.my-company
   vaultDomain: "vault.my-company"
+
+  enclaveType: "VersionlessDSUEnclave"
   # -- The Full URL of the Ethadapter including protocol and port, e.g. "https://ethadapter.my-company.com:3000"
   ethadapterUrl: "http://ethadapter.ethadapter:3000"
   # -- A CompanyName which is displayed on the web page.
