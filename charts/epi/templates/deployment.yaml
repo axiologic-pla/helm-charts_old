@@ -177,6 +177,9 @@ spec:
         - name: epi-external-volume
           persistentVolumeClaim:
             claimName: {{ include "epi.pvc" . }}
+        - name: dsu-fabric
+          persistentVolumeClaim:
+            claimName: {{ include "epi.pvc" . }}
       {{- with .Values.nodeSelector }}
       nodeSelector:
         {{- toYaml . | nindent 8 }}
