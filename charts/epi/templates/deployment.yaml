@@ -73,6 +73,8 @@ spec:
         volumeMounts:
           - name: epi-external-volume
             mountPath: /ePI-workspace/apihub-root/external-volume
+          - name: dsu-fabric
+            mountPath: /ePI-workspace/apihub-root/dsu-fabric
           - name: epi-secret-volume
             mountPath: /ePI-workspace/apihub-root/external-volume/config/apihub.json
             subPath: apihub.json
