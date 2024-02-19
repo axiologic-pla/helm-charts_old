@@ -1,6 +1,6 @@
 # epi
 
-![Version: 0.6.12](https://img.shields.io/badge/Version-0.6.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.0](https://img.shields.io/badge/AppVersion-3.0.0-informational?style=flat-square)
+![Version: 0.6.13](https://img.shields.io/badge/Version-0.6.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.0](https://img.shields.io/badge/AppVersion-3.0.0-informational?style=flat-square)
 
 A Helm chart for Pharma Ledger epi (electronic product information) application
 
@@ -158,7 +158,7 @@ It is recommended to put non-sensitive configuration values in an configuration 
 2. Install via helm to namespace `default`
 
     ```bash
-    helm upgrade my-release-name axiologic-pla/epi --version=0.6.12 \
+    helm upgrade my-release-name axiologic-pla/epi --version=0.6.13 \
         --install \
         --values my-config.yaml \
     ```
@@ -366,7 +366,7 @@ Run `helm upgrade --helm` for full list of options.
     You can install into other namespace than `default` by setting the `--namespace` parameter, e.g.
 
     ```bash
-    helm upgrade my-release-name axiologic-pla/epi --version=0.6.12 \
+    helm upgrade my-release-name axiologic-pla/epi --version=0.6.13 \
         --install \
         --namespace=my-namespace \
         --values my-config.yaml \
@@ -377,7 +377,7 @@ Run `helm upgrade --helm` for full list of options.
     Provide the `--wait` argument and time to wait (default is 5 minutes) via `--timeout`
 
     ```bash
-    helm upgrade my-release-name axiologic-pla/epi --version=0.6.12 \
+    helm upgrade my-release-name axiologic-pla/epi --version=0.6.13 \
         --install \
         --wait --timeout=600s \
         --values my-config.yaml \
@@ -425,7 +425,7 @@ Tests can be found in [tests](./tests)
 | builder.ttlSecondsAfterFinished | int | `600` | Time to keep the Job after finished. If value is not set, then 'ttlSecondsAfterFinished' will not be set. |
 | config.buildSecretKey | string | `""` | Secret Pass Phrase for de/encrypting private keys for application wallets created by builder. |
 | config.companyName | string | `"Company Inc"` | A CompanyName which is displayed on the web page. |
-| config.dev | bool | `true` |  |
+| config.dev | string | `"true"` |  |
 | config.domain | string | `"epipoc"` | The Domain, e.g. "epipoc" |
 | config.enclaveType | string | `"VersionlessDSUEnclave"` |  |
 | config.epiVersion | string | `"3.0.0"` |  |
