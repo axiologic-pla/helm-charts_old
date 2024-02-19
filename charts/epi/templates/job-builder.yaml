@@ -107,8 +107,6 @@ spec:
         volumeMounts:
           - name: epi-external-volume
             mountPath: /ePI-workspace/apihub-root/external-volume
-          - name: dsu-fabric
-            mountPath: /ePI-workspace/apihub-root/dsu-fabric
           - name: epi-secret-volume
             mountPath: /ePI-workspace/apihub-root/external-volume/config/apihub.json
             subPath: apihub.json
@@ -200,9 +198,6 @@ spec:
           configMap:
             name: {{ include "epi.fullname" . }}-environment-builder
         - name: epi-external-volume
-          persistentVolumeClaim:
-            claimName: {{ include "epi.pvc" . }}
-        - name: dsu-fabric
           persistentVolumeClaim:
             claimName: {{ include "epi.pvc" . }}
       {{- with .Values.nodeSelector }}
