@@ -210,7 +210,7 @@ builder:
     allowPrivilegeEscalation: false
 
 leafletReader:
-  enabled: false
+  enabled: true
   replicaCount: 1
   # Ingress settings for the leaflet-reader
   ingress:
