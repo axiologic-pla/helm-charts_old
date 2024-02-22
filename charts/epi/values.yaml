@@ -21,6 +21,7 @@ config:
   # -- The epi version
   ssoSecretsEncryptionKey: "+WG9HhIoXGGSVq6cMlhy2P3vuiqz1O/WAaiF5JhXmnc="
   dev: "true"
+  fabricEnabled: "false"
   epiVersion: "3.0.0"
   overrides:
     # -- Option to explicitly override the environment.js file used for demiurge-wallet instead of using the predefined template.
