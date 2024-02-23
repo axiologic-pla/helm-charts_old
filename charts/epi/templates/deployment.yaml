@@ -125,6 +125,10 @@ spec:
             subPath: dsu-fabric-environment.js
             readOnly: true
           - name: epi-env-volume
+            mountPath: /ePI-workspace/dsu-fabric/environment.js
+            subPath: dsu-fabric-environment.js
+            readOnly: true
+          - name: epi-env-volume
             mountPath: /ePI-workspace/trust-loader-config/leaflet-wallet/loader/environment.js
             subPath: leaflet-environment.js
             readOnly: true

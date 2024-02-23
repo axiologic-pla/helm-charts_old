@@ -19,10 +19,13 @@ config:
   # -- Secret Pass Phrase for de/encrypting private keys for application wallets created by builder.
   buildSecretKey: "test"
   # -- The epi version
-  ssoSecretsEncryptionKey: "+WG9HhIoXGGSVq6cMlhy2P3vuiqz1O/WAaiF5JhXmnc="
-  dev: "true"
-  fabricEnabled: "false"
   epiVersion: "3.0.0"
+  # -- The encryption key for the SSO secrets
+  ssoSecretsEncryptionKey: ""
+  # -- The environment for the application
+  dev: "true"
+  # -- Enable dsu fabric (for versions >= 3.0.0)
+  fabricEnabled: "false"
   overrides:
     # -- Option to explicitly override the environment.js file used for demiurge-wallet instead of using the predefined template.
     # Note: Usually not required
