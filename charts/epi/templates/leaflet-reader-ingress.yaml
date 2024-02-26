@@ -1,6 +1,6 @@
 {{- if .Values.leafletReader.ingress.enabled -}}
 {{- $fullName := include "epi.fullname" . -}}
-{{- $svcPort := .Values.leafletReader.service.port -}}
+{{- $svcPort := 80 -}}
 {{- if and .Values.leafletReader.ingress.className (not (semverCompare ">=1.18-0" .Capabilities.KubeVersion.GitVersion)) }}
   {{- if not (hasKey .Values.leafletReader.ingress.annotations "kubernetes.io/ingress.class") }}
   {{- $_ := set .Values.leafletReader.ingress.annotations "kubernetes.io/ingress.class" .Values.leafletReader.ingress.className}}
