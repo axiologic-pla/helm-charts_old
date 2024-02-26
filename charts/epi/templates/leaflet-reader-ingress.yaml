@@ -18,7 +18,7 @@ metadata:
   name: {{ $fullName }}-leaflet-reader
   namespace: {{ template "epi.namespace" . }}
   labels:
-    {{- include "epi.labels" . | nindent 4 }}
+    {{- include "epi.leafletReaderSelectorLabels" . | nindent 4 }}
   {{- with .Values.leafletReader.ingress.annotations }}
   annotations:
     {{- toYaml . | nindent 4 }}
