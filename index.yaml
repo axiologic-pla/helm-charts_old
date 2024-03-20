@@ -462,6 +462,18 @@ entries:
     version: 0.0.6
   epi:
   - apiVersion: v2
+    appVersion: 3.0.0-rc73
+    created: "2024-03-20T10:15:21.002473125Z"
+    description: A Helm chart for Pharma Ledger epi (electronic product information)
+      application
+    digest: 0114d5e19cbf7ac214ab4df26c5acb0592fb8bd5f241b99dac9bf48f8eea5b83
+    icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
+    name: epi
+    type: application
+    urls:
+    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.8.5/epi-0.8.5.tgz
+    version: 0.8.5
+  - apiVersion: v2
     appVersion: 3.0.0-rc28
     created: "2024-03-08T12:09:19.515223636Z"
     description: A Helm chart for Pharma Ledger epi (electronic product information)
@@ -1345,6 +1357,20 @@ entries:
     version: 0.2.0
   ethadapter:
   - apiVersion: v2
+    appVersion: 3.0.0-rc3
+    created: "2024-03-20T10:15:21.069569067Z"
+    description: A Helm chart for Pharma Ledger Ethereum Adapter Service
+    digest: 6270b43d5bc140d101c1a27899d1dcfb8193e1e1249005ac93309e7fc8e44fd1
+    icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
+    maintainers:
+    - name: skutner
+      url: https://github.com/skutner
+    name: ethadapter
+    type: application
+    urls:
+    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.18/ethadapter-0.7.18.tgz
+    version: 0.7.18
+  - apiVersion: v2
     appVersion: 1.1.0
     created: "2023-07-21T08:58:03.547782868Z"
     description: A Helm chart for Pharma Ledger Ethereum Adapter Service
@@ -2155,6 +2181,17 @@ entries:
     version: 0.0.1
   quorum-node:
   - apiVersion: v2
+    appVersion: 23.4.0-securityFix2
+    created: "2024-03-20T10:15:21.15945025Z"
+    description: A Helm chart for the deployment of the quorum node on Kubernetes
+      supporting new-network, join-network and update-partners-info use cases.
+    digest: 8e66175f5cd6056c74d444c3ede9490f07bb8038be06d5fd85d5fc410d9d14eb
+    name: quorum-node
+    type: application
+    urls:
+    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.7.0/quorum-node-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v2
     appVersion: 23.4.0
     created: "2023-08-24T13:31:51.733166816Z"
     description: A Helm chart for the deployment of the quorum node on Kubernetes
@@ -2756,4 +2793,4 @@ entries:
     urls:
     - https://github.com/axiologic-pla/helm-charts/releases/download/standalone-quorum-0.3.0/standalone-quorum-0.3.0.tgz
     version: 0.3.0
-generated: "2024-03-20T10:13:59.041539736Z"
+generated: "2024-03-20T10:15:21.160354792Z"
