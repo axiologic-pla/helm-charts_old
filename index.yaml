@@ -10,7 +10,7 @@ entries:
     name: backup-restore
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/backup-restore-0.1.1/backup-restore-0.1.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/backup-restore-0.1.1/backup-restore-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.0.0
@@ -21,7 +21,7 @@ entries:
     name: backup-restore
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/backup-restore-0.1.0/backup-restore-0.1.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/backup-restore-0.1.0/backup-restore-0.1.0.tgz
     version: 0.1.0
   blockchain-explorer:
   - apiVersion: v2
@@ -31,7 +31,7 @@ entries:
     name: blockchain-explorer
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/blockchain-explorer-0.1.3/blockchain-explorer-0.1.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/blockchain-explorer-0.1.3/blockchain-explorer-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     created: "2022-06-24T08:09:48.573340003Z"
@@ -40,7 +40,7 @@ entries:
     name: blockchain-explorer
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/blockchain-explorer-0.1.2/blockchain-explorer-0.1.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/blockchain-explorer-0.1.2/blockchain-explorer-0.1.2.tgz
     version: 0.1.2
   csc:
   - apiVersion: v2
@@ -55,7 +55,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.6.5/csc-0.6.5.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.6.5/csc-0.6.5.tgz
     version: 0.6.5
   - apiVersion: v2
     appVersion: csc.1.1.0
@@ -69,7 +69,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.6.4/csc-0.6.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.6.4/csc-0.6.4.tgz
     version: 0.6.4
   - apiVersion: v2
     appVersion: csc.1.1.0
@@ -83,7 +83,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.6.3/csc-0.6.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.6.3/csc-0.6.3.tgz
     version: 0.6.3
   - apiVersion: v2
     appVersion: csc.1.1.0
@@ -97,7 +97,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.6.2/csc-0.6.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.6.2/csc-0.6.2.tgz
     version: 0.6.2
   - apiVersion: v2
     appVersion: csc.1.1.0
@@ -111,7 +111,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.6.1/csc-0.6.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.6.1/csc-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
     appVersion: csc.1.1.0
@@ -125,7 +125,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.6.0/csc-0.6.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.6.0/csc-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: csc.1.0.0
@@ -139,7 +139,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.5.0/csc-0.5.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.5.0/csc-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: csc.0.1.1
@@ -153,7 +153,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.4.3/csc-0.4.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.4.3/csc-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v2
     appVersion: csc.0.1.0
@@ -167,7 +167,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.4.2/csc-0.4.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.4.2/csc-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v2
     appVersion: csc.0.1.0
@@ -181,7 +181,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.4.1/csc-0.4.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.4.1/csc-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v2
     appVersion: csc.0.1.0
@@ -195,7 +195,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.4.0/csc-0.4.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.4.0/csc-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v2
     appVersion: csc.0.0.3
@@ -209,7 +209,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.3.2/csc-0.3.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.3.2/csc-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v2
     appVersion: csc.0.0.3
@@ -223,7 +223,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.3.1/csc-0.3.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.3.1/csc-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
     appVersion: csc.0.0.3
@@ -237,7 +237,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.3.0/csc-0.3.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.3.0/csc-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v2
     appVersion: csc.0.0.3
@@ -251,7 +251,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.2.0/csc-0.2.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.2.0/csc-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: csc.0.0.3
@@ -265,7 +265,7 @@ entries:
     name: csc
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/csc-0.1.0/csc-0.1.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/csc-0.1.0/csc-0.1.0.tgz
     version: 0.1.0
   dfm-backend:
   - apiVersion: v2
@@ -277,7 +277,7 @@ entries:
     name: dfm-backend
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/dfm-backend-0.1.1/dfm-backend-0.1.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/dfm-backend-0.1.1/dfm-backend-0.1.1.tgz
     version: 0.1.1
   dfm-frontend:
   - apiVersion: v2
@@ -289,7 +289,7 @@ entries:
     name: dfm-frontend
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/dfm-frontend-0.1.1/dfm-frontend-0.1.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/dfm-frontend-0.1.1/dfm-frontend-0.1.1.tgz
     version: 0.1.1
   dummy:
   - apiVersion: v2
@@ -300,7 +300,7 @@ entries:
     name: dummy
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/dummy-0.1.0/dummy-0.1.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/dummy-0.1.0/dummy-0.1.0.tgz
     version: 0.1.0
   eco:
   - apiVersion: v2
@@ -315,7 +315,7 @@ entries:
     name: eco
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/eco-0.0.5/eco-0.0.5.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/eco-0.0.5/eco-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v2
     appVersion: eco.0.0.1
@@ -329,7 +329,7 @@ entries:
     name: eco
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/eco-0.0.4/eco-0.0.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/eco-0.0.4/eco-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v2
     appVersion: eco.0.0.1
@@ -343,7 +343,7 @@ entries:
     name: eco
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/eco-0.0.3/eco-0.0.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/eco-0.0.3/eco-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v2
     appVersion: eco.0.0.1
@@ -357,7 +357,7 @@ entries:
     name: eco
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/eco-0.0.2/eco-0.0.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/eco-0.0.2/eco-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
     appVersion: eco.0.0.1
@@ -371,7 +371,7 @@ entries:
     name: eco
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/eco-0.0.1/eco-0.0.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/eco-0.0.1/eco-0.0.1.tgz
     version: 0.0.1
   eco-iot:
   - apiVersion: v2
@@ -388,7 +388,7 @@ entries:
     name: eco-iot
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/eco-iot-0.1.4/eco-iot-0.1.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/eco-iot-0.1.4/eco-iot-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     appVersion: v1.4.1
@@ -402,7 +402,7 @@ entries:
     name: eco-iot
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/eco-iot-0.1.3/eco-iot-0.1.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/eco-iot-0.1.3/eco-iot-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     appVersion: v1.4.1
@@ -416,7 +416,7 @@ entries:
     name: eco-iot
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/eco-iot-0.1.2/eco-iot-0.1.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/eco-iot-0.1.2/eco-iot-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: v1.1.8
@@ -430,7 +430,7 @@ entries:
     name: eco-iot
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/eco-iot-0.1.1/eco-iot-0.1.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/eco-iot-0.1.1/eco-iot-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: v1.1.8
@@ -444,7 +444,7 @@ entries:
     name: eco-iot
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/eco-iot-0.1.0/eco-iot-0.1.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/eco-iot-0.1.0/eco-iot-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v2
     appVersion: v1.1.2
@@ -458,7 +458,7 @@ entries:
     name: eco-iot
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/eco-iot-0.0.6/eco-iot-0.0.6.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/eco-iot-0.0.6/eco-iot-0.0.6.tgz
     version: 0.0.6
   epi:
   - apiVersion: v2
@@ -471,7 +471,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.8.10/epi-0.8.10.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.8.10/epi-0.8.10.tgz
     version: 0.8.10
   - apiVersion: v2
     appVersion: 3.0.0
@@ -483,7 +483,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.8.9/epi-0.8.9.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.8.9/epi-0.8.9.tgz
     version: 0.8.9
   - apiVersion: v2
     appVersion: 3.0.0
@@ -495,7 +495,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.8.8/epi-0.8.8.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.8.8/epi-0.8.8.tgz
     version: 0.8.8
   - apiVersion: v2
     appVersion: 3.0.0-rc73
@@ -507,7 +507,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.8.7/epi-0.8.7.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.8.7/epi-0.8.7.tgz
     version: 0.8.7
   - apiVersion: v2
     appVersion: 3.0.0-rc73
@@ -519,7 +519,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.8.6/epi-0.8.6.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.8.6/epi-0.8.6.tgz
     version: 0.8.6
   - apiVersion: v2
     appVersion: 3.0.0-rc73
@@ -531,7 +531,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.8.5/epi-0.8.5.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.8.5/epi-0.8.5.tgz
     version: 0.8.5
   - apiVersion: v2
     appVersion: 3.0.0-rc28
@@ -543,7 +543,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.7.6/epi-0.7.6.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.7.6/epi-0.7.6.tgz
     version: 0.7.6
   - apiVersion: v2
     appVersion: 3.0.0-rc28
@@ -555,7 +555,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.7.4/epi-0.7.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.7.4/epi-0.7.4.tgz
     version: 0.7.4
   - apiVersion: v2
     appVersion: 3.0.0
@@ -570,7 +570,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.27/epi-0.6.27.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.27/epi-0.6.27.tgz
     version: 0.6.27
   - apiVersion: v2
     appVersion: 3.0.0
@@ -585,7 +585,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.26/epi-0.6.26.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.26/epi-0.6.26.tgz
     version: 0.6.26
   - apiVersion: v2
     appVersion: 3.0.0
@@ -600,7 +600,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.25/epi-0.6.25.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.25/epi-0.6.25.tgz
     version: 0.6.25
   - apiVersion: v2
     appVersion: 3.0.0
@@ -615,7 +615,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.24/epi-0.6.24.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.24/epi-0.6.24.tgz
     version: 0.6.24
   - apiVersion: v2
     appVersion: 3.0.0
@@ -630,7 +630,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.23/epi-0.6.23.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.23/epi-0.6.23.tgz
     version: 0.6.23
   - apiVersion: v2
     appVersion: 3.0.0
@@ -645,7 +645,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.22/epi-0.6.22.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.22/epi-0.6.22.tgz
     version: 0.6.22
   - apiVersion: v2
     appVersion: 3.0.0
@@ -660,7 +660,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.21/epi-0.6.21.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.21/epi-0.6.21.tgz
     version: 0.6.21
   - apiVersion: v2
     appVersion: 3.0.0
@@ -675,7 +675,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.20/epi-0.6.20.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.20/epi-0.6.20.tgz
     version: 0.6.20
   - apiVersion: v2
     appVersion: 3.0.0
@@ -690,7 +690,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.19/epi-0.6.19.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.19/epi-0.6.19.tgz
     version: 0.6.19
   - apiVersion: v2
     appVersion: 3.0.0
@@ -705,7 +705,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.18/epi-0.6.18.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.18/epi-0.6.18.tgz
     version: 0.6.18
   - apiVersion: v2
     appVersion: 3.0.0
@@ -720,7 +720,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.17/epi-0.6.17.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.17/epi-0.6.17.tgz
     version: 0.6.17
   - apiVersion: v2
     appVersion: 3.0.0
@@ -735,7 +735,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.16/epi-0.6.16.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.16/epi-0.6.16.tgz
     version: 0.6.16
   - apiVersion: v2
     appVersion: 3.0.0
@@ -750,7 +750,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.15/epi-0.6.15.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.15/epi-0.6.15.tgz
     version: 0.6.15
   - apiVersion: v2
     appVersion: 3.0.0
@@ -765,7 +765,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.14/epi-0.6.14.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.14/epi-0.6.14.tgz
     version: 0.6.14
   - apiVersion: v2
     appVersion: 3.0.0
@@ -780,7 +780,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.13/epi-0.6.13.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.13/epi-0.6.13.tgz
     version: 0.6.13
   - apiVersion: v2
     appVersion: 3.0.0
@@ -795,7 +795,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.12/epi-0.6.12.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.12/epi-0.6.12.tgz
     version: 0.6.12
   - apiVersion: v2
     appVersion: 3.0.0
@@ -810,7 +810,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.11/epi-0.6.11.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.11/epi-0.6.11.tgz
     version: 0.6.11
   - apiVersion: v2
     appVersion: 3.0.0
@@ -825,7 +825,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.10/epi-0.6.10.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.10/epi-0.6.10.tgz
     version: 0.6.10
   - apiVersion: v2
     appVersion: 3.0.0
@@ -840,7 +840,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.9/epi-0.6.9.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.9/epi-0.6.9.tgz
     version: 0.6.9
   - apiVersion: v2
     appVersion: 3.0.0
@@ -855,7 +855,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.8/epi-0.6.8.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.8/epi-0.6.8.tgz
     version: 0.6.8
   - apiVersion: v2
     appVersion: 3.0.0
@@ -870,7 +870,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.7/epi-0.6.7.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.7/epi-0.6.7.tgz
     version: 0.6.7
   - apiVersion: v2
     appVersion: 2023.1.2
@@ -885,7 +885,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.6/epi-0.6.6.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.6/epi-0.6.6.tgz
     version: 0.6.6
   - apiVersion: v2
     appVersion: 2023.1.0
@@ -900,7 +900,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.5/epi-0.6.5.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.5/epi-0.6.5.tgz
     version: 0.6.5
   - apiVersion: v2
     appVersion: 2023.1.0
@@ -915,7 +915,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.4/epi-0.6.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.4/epi-0.6.4.tgz
     version: 0.6.4
   - apiVersion: v2
     appVersion: 2023.0.4
@@ -930,7 +930,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.6.3/epi-0.6.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.6.3/epi-0.6.3.tgz
     version: 0.6.3
   - apiVersion: v2
     appVersion: 2023.0.1
@@ -945,7 +945,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.15/epi-0.5.15.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.15/epi-0.5.15.tgz
     version: 0.5.15
   - apiVersion: v2
     appVersion: 2023.0.1
@@ -960,7 +960,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.14/epi-0.5.14.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.14/epi-0.5.14.tgz
     version: 0.5.14
   - apiVersion: v2
     appVersion: 1.6.2
@@ -975,7 +975,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.13/epi-0.5.13.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.13/epi-0.5.13.tgz
     version: 0.5.13
   - apiVersion: v2
     appVersion: 1.6.1
@@ -990,7 +990,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.12/epi-0.5.12.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.12/epi-0.5.12.tgz
     version: 0.5.12
   - apiVersion: v2
     appVersion: 1.6.1
@@ -1005,7 +1005,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.11/epi-0.5.11.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.11/epi-0.5.11.tgz
     version: 0.5.11
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1020,7 +1020,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.10/epi-0.5.10.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.10/epi-0.5.10.tgz
     version: 0.5.10
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1035,7 +1035,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.9/epi-0.5.9.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.9/epi-0.5.9.tgz
     version: 0.5.9
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1050,7 +1050,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.8/epi-0.5.8.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.8/epi-0.5.8.tgz
     version: 0.5.8
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1065,7 +1065,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.7/epi-0.5.7.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.7/epi-0.5.7.tgz
     version: 0.5.7
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1080,7 +1080,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.6/epi-0.5.6.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.6/epi-0.5.6.tgz
     version: 0.5.6
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1095,7 +1095,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.5/epi-0.5.5.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.5/epi-0.5.5.tgz
     version: 0.5.5
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1110,7 +1110,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.4/epi-0.5.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.4/epi-0.5.4.tgz
     version: 0.5.4
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1125,7 +1125,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.3/epi-0.5.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.3/epi-0.5.3.tgz
     version: 0.5.3
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1140,7 +1140,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.2/epi-0.5.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.2/epi-0.5.2.tgz
     version: 0.5.2
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1155,7 +1155,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.1/epi-0.5.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.1/epi-0.5.1.tgz
     version: 0.5.1
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1170,7 +1170,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.5.0/epi-0.5.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.5.0/epi-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1185,7 +1185,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.4.11/epi-0.4.11.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.4.11/epi-0.4.11.tgz
     version: 0.4.11
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1200,7 +1200,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.4.10/epi-0.4.10.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.4.10/epi-0.4.10.tgz
     version: 0.4.10
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1215,7 +1215,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.4.9/epi-0.4.9.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.4.9/epi-0.4.9.tgz
     version: 0.4.9
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1230,7 +1230,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.4.8/epi-0.4.8.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.4.8/epi-0.4.8.tgz
     version: 0.4.8
   - apiVersion: v2
     appVersion: 1.3.1
@@ -1245,7 +1245,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.4.7/epi-0.4.7.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.4.7/epi-0.4.7.tgz
     version: 0.4.7
   - apiVersion: v2
     appVersion: v1.3.0
@@ -1260,7 +1260,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.4.6/epi-0.4.6.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.4.6/epi-0.4.6.tgz
     version: 0.4.6
   - apiVersion: v2
     appVersion: v1.3.0
@@ -1275,7 +1275,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.4.5/epi-0.4.5.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.4.5/epi-0.4.5.tgz
     version: 0.4.5
   - apiVersion: v2
     appVersion: v1.3.0
@@ -1290,7 +1290,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.4.4/epi-0.4.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.4.4/epi-0.4.4.tgz
     version: 0.4.4
   - apiVersion: v2
     appVersion: v1.3.0
@@ -1305,7 +1305,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.4.3/epi-0.4.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.4.3/epi-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v2
     appVersion: v1.3.0
@@ -1320,7 +1320,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.4.2/epi-0.4.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.4.2/epi-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v2
     appVersion: v1.3.0
@@ -1335,7 +1335,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.4.1/epi-0.4.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.4.1/epi-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v2
     appVersion: v1.3.0
@@ -1350,7 +1350,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.4.0/epi-0.4.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.4.0/epi-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v2
     appVersion: poc.1.6
@@ -1365,7 +1365,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.3.3/epi-0.3.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.3.3/epi-0.3.3.tgz
     version: 0.3.3
   - apiVersion: v2
     appVersion: poc.1.6
@@ -1380,7 +1380,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.3.2/epi-0.3.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.3.2/epi-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v2
     appVersion: poc.1.6
@@ -1395,7 +1395,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.3.1/epi-0.3.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.3.1/epi-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
     appVersion: poc.1.6
@@ -1410,7 +1410,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.3.0/epi-0.3.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.3.0/epi-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v2
     appVersion: poc.1.6
@@ -1425,7 +1425,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.2.2/epi-0.2.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.2.2/epi-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v2
     appVersion: poc.1.6
@@ -1440,7 +1440,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.2.1/epi-0.2.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.2.1/epi-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
     appVersion: poc.1.6
@@ -1455,7 +1455,7 @@ entries:
     name: epi
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/epi-0.2.0/epi-0.2.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/epi-0.2.0/epi-0.2.0.tgz
     version: 0.2.0
   ethadapter:
   - apiVersion: v2
@@ -1470,7 +1470,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.18/ethadapter-0.7.18.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.18/ethadapter-0.7.18.tgz
     version: 0.7.18
   - apiVersion: v2
     appVersion: 1.1.0
@@ -1484,7 +1484,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.15/ethadapter-0.7.15.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.15/ethadapter-0.7.15.tgz
     version: 0.7.15
   - apiVersion: v2
     appVersion: 1.1.0
@@ -1498,7 +1498,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.14/ethadapter-0.7.14.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.14/ethadapter-0.7.14.tgz
     version: 0.7.14
   - apiVersion: v2
     appVersion: 1.1.0
@@ -1512,7 +1512,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.13/ethadapter-0.7.13.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.13/ethadapter-0.7.13.tgz
     version: 0.7.13
   - apiVersion: v2
     appVersion: 1.0.2
@@ -1526,7 +1526,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.12/ethadapter-0.7.12.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.12/ethadapter-0.7.12.tgz
     version: 0.7.12
   - apiVersion: v2
     appVersion: 1.0.2
@@ -1540,7 +1540,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.11/ethadapter-0.7.11.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.11/ethadapter-0.7.11.tgz
     version: 0.7.11
   - apiVersion: v2
     appVersion: 1.0.2
@@ -1554,7 +1554,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.10/ethadapter-0.7.10.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.10/ethadapter-0.7.10.tgz
     version: 0.7.10
   - apiVersion: v2
     appVersion: 1.0.2
@@ -1568,7 +1568,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.9/ethadapter-0.7.9.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.9/ethadapter-0.7.9.tgz
     version: 0.7.9
   - apiVersion: v2
     appVersion: 1.0.2
@@ -1582,7 +1582,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.8/ethadapter-0.7.8.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.8/ethadapter-0.7.8.tgz
     version: 0.7.8
   - apiVersion: v2
     appVersion: 1.0.2
@@ -1596,7 +1596,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.7/ethadapter-0.7.7.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.7/ethadapter-0.7.7.tgz
     version: 0.7.7
   - apiVersion: v2
     appVersion: 1.0.2
@@ -1610,7 +1610,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.6/ethadapter-0.7.6.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.6/ethadapter-0.7.6.tgz
     version: 0.7.6
   - apiVersion: v2
     appVersion: 1.0.2
@@ -1624,7 +1624,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.5/ethadapter-0.7.5.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.5/ethadapter-0.7.5.tgz
     version: 0.7.5
   - apiVersion: v2
     appVersion: 1.0.2
@@ -1638,7 +1638,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.4/ethadapter-0.7.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.4/ethadapter-0.7.4.tgz
     version: 0.7.4
   - apiVersion: v2
     appVersion: 1.0.2
@@ -1652,7 +1652,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.3/ethadapter-0.7.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.3/ethadapter-0.7.3.tgz
     version: 0.7.3
   - apiVersion: v2
     appVersion: latest
@@ -1666,7 +1666,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.2/ethadapter-0.7.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.2/ethadapter-0.7.2.tgz
     version: 0.7.2
   - apiVersion: v2
     appVersion: latest
@@ -1680,7 +1680,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.1/ethadapter-0.7.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.1/ethadapter-0.7.1.tgz
     version: 0.7.1
   - apiVersion: v2
     appVersion: latest
@@ -1694,7 +1694,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.7.0/ethadapter-0.7.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.7.0/ethadapter-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: latest
@@ -1708,7 +1708,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.6.1/ethadapter-0.6.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.6.1/ethadapter-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
     appVersion: latest
@@ -1722,7 +1722,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.6.0/ethadapter-0.6.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.6.0/ethadapter-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: latest
@@ -1736,7 +1736,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.5.0/ethadapter-0.5.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.5.0/ethadapter-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: latest
@@ -1750,7 +1750,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.4.4/ethadapter-0.4.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.4.4/ethadapter-0.4.4.tgz
     version: 0.4.4
   - apiVersion: v2
     appVersion: latest
@@ -1764,7 +1764,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.4.3/ethadapter-0.4.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.4.3/ethadapter-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v2
     appVersion: latest
@@ -1778,7 +1778,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.4.2/ethadapter-0.4.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.4.2/ethadapter-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v2
     appVersion: latest
@@ -1792,7 +1792,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.4.1/ethadapter-0.4.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.4.1/ethadapter-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v2
     appVersion: latest
@@ -1806,7 +1806,7 @@ entries:
     name: ethadapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/ethadapter-0.4.0/ethadapter-0.4.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/ethadapter-0.4.0/ethadapter-0.4.0.tgz
     version: 0.4.0
   fgt:
   - apiVersion: v2
@@ -1817,7 +1817,7 @@ entries:
     name: fgt
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/fgt-0.2.5/fgt-0.2.5.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/fgt-0.2.5/fgt-0.2.5.tgz
     version: 0.2.5
   - apiVersion: v2
     appVersion: v0.10.4
@@ -1827,7 +1827,7 @@ entries:
     name: fgt
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/fgt-0.2.4/fgt-0.2.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/fgt-0.2.4/fgt-0.2.4.tgz
     version: 0.2.4
   - apiVersion: v2
     appVersion: v0.9.7
@@ -1837,7 +1837,7 @@ entries:
     name: fgt
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/fgt-0.2.3/fgt-0.2.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/fgt-0.2.3/fgt-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v2
     appVersion: v0.9.6
@@ -1847,7 +1847,7 @@ entries:
     name: fgt
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/fgt-0.2.1/fgt-0.2.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/fgt-0.2.1/fgt-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.9.4
@@ -1857,7 +1857,7 @@ entries:
     name: fgt
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/fgt-0.2.0/fgt-0.2.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/fgt-0.2.0/fgt-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.9.4
@@ -1867,7 +1867,7 @@ entries:
     name: fgt
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/fgt-0.1.6/fgt-0.1.6.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/fgt-0.1.6/fgt-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.9.4
@@ -1877,7 +1877,7 @@ entries:
     name: fgt
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/fgt-0.1.5/fgt-0.1.5.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/fgt-0.1.5/fgt-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.9.4
@@ -1887,7 +1887,7 @@ entries:
     name: fgt
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/fgt-0.1.4/fgt-0.1.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/fgt-0.1.4/fgt-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.9.3
@@ -1897,7 +1897,7 @@ entries:
     name: fgt
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/fgt-0.1.3/fgt-0.1.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/fgt-0.1.3/fgt-0.1.3.tgz
     version: 0.1.3
   grafana:
   - apiVersion: v2
@@ -1914,7 +1914,7 @@ entries:
     name: grafana
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/grafana-0.0.3/grafana-0.0.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/grafana-0.0.3/grafana-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.1
@@ -1930,7 +1930,7 @@ entries:
     name: grafana
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/grafana-0.0.2/grafana-0.0.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/grafana-0.0.2/grafana-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
@@ -1946,7 +1946,7 @@ entries:
     name: grafana
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/grafana-0.0.1/grafana-0.0.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/grafana-0.0.1/grafana-0.0.1.tgz
     version: 0.0.1
   iot:
   - apiVersion: v2
@@ -1961,7 +1961,7 @@ entries:
     name: iot
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-0.0.5/iot-0.0.5.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-0.0.5/iot-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v2
     appVersion: v1.1.2
@@ -1975,7 +1975,7 @@ entries:
     name: iot
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-0.0.4/iot-0.0.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-0.0.4/iot-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v2
     appVersion: iot.1.0.2
@@ -1989,7 +1989,7 @@ entries:
     name: iot
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-0.0.3/iot-0.0.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-0.0.3/iot-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v2
     appVersion: iot.1.0.2
@@ -2003,7 +2003,7 @@ entries:
     name: iot
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-0.0.2/iot-0.0.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-0.0.2/iot-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
     appVersion: iot.1.0.2
@@ -2017,7 +2017,7 @@ entries:
     name: iot
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-0.0.1/iot-0.0.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-0.0.1/iot-0.0.1.tgz
     version: 0.0.1
   iot-adapter:
   - apiVersion: v2
@@ -2032,7 +2032,7 @@ entries:
     name: iot-adapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-adapter-0.0.14/iot-adapter-0.0.14.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-adapter-0.0.14/iot-adapter-0.0.14.tgz
     version: 0.0.14
   - apiVersion: v2
     appVersion: v1.1.18
@@ -2046,7 +2046,7 @@ entries:
     name: iot-adapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-adapter-0.0.13/iot-adapter-0.0.13.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-adapter-0.0.13/iot-adapter-0.0.13.tgz
     version: 0.0.13
   - apiVersion: v2
     appVersion: v1.1.18
@@ -2060,7 +2060,7 @@ entries:
     name: iot-adapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-adapter-0.0.12/iot-adapter-0.0.12.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-adapter-0.0.12/iot-adapter-0.0.12.tgz
     version: 0.0.12
   - apiVersion: v2
     appVersion: v1.1.18
@@ -2074,7 +2074,7 @@ entries:
     name: iot-adapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-adapter-0.0.11/iot-adapter-0.0.11.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-adapter-0.0.11/iot-adapter-0.0.11.tgz
     version: 0.0.11
   - apiVersion: v2
     appVersion: v1.1.8
@@ -2088,7 +2088,7 @@ entries:
     name: iot-adapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-adapter-0.0.10/iot-adapter-0.0.10.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-adapter-0.0.10/iot-adapter-0.0.10.tgz
     version: 0.0.10
   - apiVersion: v2
     appVersion: v1.1.7
@@ -2102,7 +2102,7 @@ entries:
     name: iot-adapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-adapter-0.0.9/iot-adapter-0.0.9.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-adapter-0.0.9/iot-adapter-0.0.9.tgz
     version: 0.0.9
   - apiVersion: v2
     appVersion: v1.1.2
@@ -2116,7 +2116,7 @@ entries:
     name: iot-adapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-adapter-0.0.8/iot-adapter-0.0.8.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-adapter-0.0.8/iot-adapter-0.0.8.tgz
     version: 0.0.8
   - apiVersion: v2
     appVersion: v1.1.2
@@ -2130,7 +2130,7 @@ entries:
     name: iot-adapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-adapter-0.0.7/iot-adapter-0.0.7.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-adapter-0.0.7/iot-adapter-0.0.7.tgz
     version: 0.0.7
   - apiVersion: v2
     appVersion: v1.1.2
@@ -2144,7 +2144,7 @@ entries:
     name: iot-adapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-adapter-0.0.6/iot-adapter-0.0.6.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-adapter-0.0.6/iot-adapter-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v2
     appVersion: v1.1.1
@@ -2158,7 +2158,7 @@ entries:
     name: iot-adapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-adapter-0.0.5/iot-adapter-0.0.5.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-adapter-0.0.5/iot-adapter-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v2
     appVersion: iot-adapter:1.1.1
@@ -2172,7 +2172,7 @@ entries:
     name: iot-adapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-adapter-0.0.4/iot-adapter-0.0.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-adapter-0.0.4/iot-adapter-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v2
     appVersion: iot-adapter.0.0.1
@@ -2186,7 +2186,7 @@ entries:
     name: iot-adapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-adapter-0.0.3/iot-adapter-0.0.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-adapter-0.0.3/iot-adapter-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v2
     appVersion: iot-adapter.0.0.1
@@ -2200,7 +2200,7 @@ entries:
     name: iot-adapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-adapter-0.0.2/iot-adapter-0.0.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-adapter-0.0.2/iot-adapter-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
     appVersion: iot-adapter.0.0.1
@@ -2214,7 +2214,7 @@ entries:
     name: iot-adapter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/iot-adapter-0.0.1/iot-adapter-0.0.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/iot-adapter-0.0.1/iot-adapter-0.0.1.tgz
     version: 0.0.1
   prometheus:
   - apiVersion: v2
@@ -2231,7 +2231,7 @@ entries:
     name: prometheus
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/prometheus-0.0.4/prometheus-0.0.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/prometheus-0.0.4/prometheus-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v2
     appVersion: 0.0.1
@@ -2247,7 +2247,7 @@ entries:
     name: prometheus
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/prometheus-0.0.3/prometheus-0.0.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/prometheus-0.0.3/prometheus-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.1
@@ -2263,7 +2263,7 @@ entries:
     name: prometheus
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/prometheus-0.0.2/prometheus-0.0.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/prometheus-0.0.2/prometheus-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
@@ -2279,7 +2279,7 @@ entries:
     name: prometheus
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/prometheus-0.0.1/prometheus-0.0.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/prometheus-0.0.1/prometheus-0.0.1.tgz
     version: 0.0.1
   quorum-node:
   - apiVersion: v2
@@ -2291,7 +2291,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.7.0/quorum-node-0.7.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.7.0/quorum-node-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: 23.4.0
@@ -2302,7 +2302,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.6.12/quorum-node-0.6.12.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.6.12/quorum-node-0.6.12.tgz
     version: 0.6.12
   - apiVersion: v2
     appVersion: 23.4.0
@@ -2313,7 +2313,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.6.11/quorum-node-0.6.11.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.6.11/quorum-node-0.6.11.tgz
     version: 0.6.11
   - apiVersion: v2
     appVersion: 23.4.0
@@ -2324,7 +2324,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.6.10/quorum-node-0.6.10.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.6.10/quorum-node-0.6.10.tgz
     version: 0.6.10
   - apiVersion: v2
     appVersion: 23.4.0
@@ -2335,7 +2335,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.6.9/quorum-node-0.6.9.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.6.9/quorum-node-0.6.9.tgz
     version: 0.6.9
   - apiVersion: v2
     appVersion: 23.4.0
@@ -2346,7 +2346,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.6.8/quorum-node-0.6.8.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.6.8/quorum-node-0.6.8.tgz
     version: 0.6.8
   - apiVersion: v2
     appVersion: 23.4.0
@@ -2357,7 +2357,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.6.7/quorum-node-0.6.7.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.6.7/quorum-node-0.6.7.tgz
     version: 0.6.7
   - apiVersion: v2
     appVersion: 23.4.0
@@ -2368,7 +2368,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.6.6/quorum-node-0.6.6.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.6.6/quorum-node-0.6.6.tgz
     version: 0.6.6
   - apiVersion: v2
     appVersion: 22.7.0
@@ -2379,7 +2379,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.6.5/quorum-node-0.6.5.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.6.5/quorum-node-0.6.5.tgz
     version: 0.6.5
   - apiVersion: v2
     appVersion: 22.7.0
@@ -2390,7 +2390,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.6.4/quorum-node-0.6.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.6.4/quorum-node-0.6.4.tgz
     version: 0.6.4
   - apiVersion: v2
     appVersion: 22.7.0
@@ -2401,7 +2401,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.6.3/quorum-node-0.6.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.6.3/quorum-node-0.6.3.tgz
     version: 0.6.3
   - apiVersion: v2
     appVersion: 22.7.0
@@ -2412,7 +2412,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.6.2/quorum-node-0.6.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.6.2/quorum-node-0.6.2.tgz
     version: 0.6.2
   - apiVersion: v2
     appVersion: 22.7.0
@@ -2423,7 +2423,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.6.1/quorum-node-0.6.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.6.1/quorum-node-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
     appVersion: 22.7.0
@@ -2434,7 +2434,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.6.0/quorum-node-0.6.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.6.0/quorum-node-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2445,7 +2445,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.5.9/quorum-node-0.5.9.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.5.9/quorum-node-0.5.9.tgz
     version: 0.5.9
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2456,7 +2456,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.5.8/quorum-node-0.5.8.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.5.8/quorum-node-0.5.8.tgz
     version: 0.5.8
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2467,7 +2467,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.5.7/quorum-node-0.5.7.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.5.7/quorum-node-0.5.7.tgz
     version: 0.5.7
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2478,7 +2478,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.5.6/quorum-node-0.5.6.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.5.6/quorum-node-0.5.6.tgz
     version: 0.5.6
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2489,7 +2489,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.5.5/quorum-node-0.5.5.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.5.5/quorum-node-0.5.5.tgz
     version: 0.5.5
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2500,7 +2500,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.5.4/quorum-node-0.5.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.5.4/quorum-node-0.5.4.tgz
     version: 0.5.4
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2511,7 +2511,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.5.3/quorum-node-0.5.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.5.3/quorum-node-0.5.3.tgz
     version: 0.5.3
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2522,7 +2522,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.5.2/quorum-node-0.5.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.5.2/quorum-node-0.5.2.tgz
     version: 0.5.2
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2533,7 +2533,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.5.1/quorum-node-0.5.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.5.1/quorum-node-0.5.1.tgz
     version: 0.5.1
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2544,7 +2544,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.5.0/quorum-node-0.5.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.5.0/quorum-node-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2555,7 +2555,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.4.6/quorum-node-0.4.6.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.4.6/quorum-node-0.4.6.tgz
     version: 0.4.6
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2566,7 +2566,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.4.5/quorum-node-0.4.5.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.4.5/quorum-node-0.4.5.tgz
     version: 0.4.5
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2577,7 +2577,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.4.4/quorum-node-0.4.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.4.4/quorum-node-0.4.4.tgz
     version: 0.4.4
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2588,7 +2588,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.4.3/quorum-node-0.4.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.4.3/quorum-node-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2599,7 +2599,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.4.2/quorum-node-0.4.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.4.2/quorum-node-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2610,7 +2610,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.4.1/quorum-node-0.4.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.4.1/quorum-node-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2621,7 +2621,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.4.0/quorum-node-0.4.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.4.0/quorum-node-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2632,7 +2632,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.3.1/quorum-node-0.3.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.3.1/quorum-node-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2643,7 +2643,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.3.0/quorum-node-0.3.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.3.0/quorum-node-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2654,7 +2654,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.2.8/quorum-node-0.2.8.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.2.8/quorum-node-0.2.8.tgz
     version: 0.2.8
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2665,7 +2665,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.2.7/quorum-node-0.2.7.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.2.7/quorum-node-0.2.7.tgz
     version: 0.2.7
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2676,7 +2676,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.2.6/quorum-node-0.2.6.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.2.6/quorum-node-0.2.6.tgz
     version: 0.2.6
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2687,7 +2687,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.2.5/quorum-node-0.2.5.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.2.5/quorum-node-0.2.5.tgz
     version: 0.2.5
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2698,7 +2698,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.2.4/quorum-node-0.2.4.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.2.4/quorum-node-0.2.4.tgz
     version: 0.2.4
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2709,7 +2709,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.2.3/quorum-node-0.2.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.2.3/quorum-node-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2720,7 +2720,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.2.1/quorum-node-0.2.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.2.1/quorum-node-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2731,7 +2731,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.2.0/quorum-node-0.2.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.2.0/quorum-node-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 21.7.1
@@ -2742,7 +2742,7 @@ entries:
     name: quorum-node
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-0.1.0/quorum-node-0.1.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-0.1.0/quorum-node-0.1.0.tgz
     version: 0.1.0
   quorum-node-metrics-exporter:
   - apiVersion: v2
@@ -2753,7 +2753,7 @@ entries:
     name: quorum-node-metrics-exporter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-metrics-exporter-0.2.3/quorum-node-metrics-exporter-0.2.3.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-metrics-exporter-0.2.3/quorum-node-metrics-exporter-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v2
     appVersion: v0.2
@@ -2763,7 +2763,7 @@ entries:
     name: quorum-node-metrics-exporter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-metrics-exporter-0.2.2/quorum-node-metrics-exporter-0.2.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-metrics-exporter-0.2.2/quorum-node-metrics-exporter-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v2
     appVersion: v0.2
@@ -2773,7 +2773,7 @@ entries:
     name: quorum-node-metrics-exporter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-metrics-exporter-0.2.1/quorum-node-metrics-exporter-0.2.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-metrics-exporter-0.2.1/quorum-node-metrics-exporter-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
     appVersion: v0.2
@@ -2783,7 +2783,7 @@ entries:
     name: quorum-node-metrics-exporter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-metrics-exporter-0.2.0/quorum-node-metrics-exporter-0.2.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-metrics-exporter-0.2.0/quorum-node-metrics-exporter-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: v0.2
@@ -2793,7 +2793,7 @@ entries:
     name: quorum-node-metrics-exporter
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/quorum-node-metrics-exporter-0.1.0/quorum-node-metrics-exporter-0.1.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/quorum-node-metrics-exporter-0.1.0/quorum-node-metrics-exporter-0.1.0.tgz
     version: 0.1.0
   smartcontract:
   - apiVersion: v2
@@ -2811,7 +2811,7 @@ entries:
     name: smartcontract
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/smartcontract-0.4.2/smartcontract-0.4.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/smartcontract-0.4.2/smartcontract-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v2
     appVersion: latest
@@ -2828,7 +2828,7 @@ entries:
     name: smartcontract
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/smartcontract-0.4.1/smartcontract-0.4.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/smartcontract-0.4.1/smartcontract-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v2
     appVersion: latest
@@ -2845,7 +2845,7 @@ entries:
     name: smartcontract
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/smartcontract-0.4.0/smartcontract-0.4.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/smartcontract-0.4.0/smartcontract-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v2
     appVersion: latest
@@ -2862,7 +2862,7 @@ entries:
     name: smartcontract
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/smartcontract-0.3.0/smartcontract-0.3.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/smartcontract-0.3.0/smartcontract-0.3.0.tgz
     version: 0.3.0
   standalone-quorum:
   - apiVersion: v2
@@ -2873,7 +2873,7 @@ entries:
     name: standalone-quorum
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/standalone-quorum-0.3.2/standalone-quorum-0.3.2.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/standalone-quorum-0.3.2/standalone-quorum-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v2
     appVersion: 21.10.2
@@ -2883,7 +2883,7 @@ entries:
     name: standalone-quorum
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/standalone-quorum-0.3.1/standalone-quorum-0.3.1.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/standalone-quorum-0.3.1/standalone-quorum-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
     appVersion: 21.10.2
@@ -2893,6 +2893,6 @@ entries:
     name: standalone-quorum
     type: application
     urls:
-    - https://github.com/axiologic-pla/helm-charts/releases/download/standalone-quorum-0.3.0/standalone-quorum-0.3.0.tgz
+    - https://github.com/axiologic-pla/helm-charts_old/releases/download/standalone-quorum-0.3.0/standalone-quorum-0.3.0.tgz
     version: 0.3.0
 generated: "2024-04-02T10:41:47.565935633Z"
