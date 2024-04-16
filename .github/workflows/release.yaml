@@ -6,13 +6,10 @@
 name: Release Charts
 
 on:
-  workflow_dispatch:
-    inputs:
-      branch:
-        description: 'Branch name'
-        required: true
-        type: string
-        default: master
+  push:
+    branches:
+      - master
+      - 3.0.0-rc3
 
 jobs:
   release:
@@ -21,7 +18,6 @@ jobs:
       - uses: actions/checkout@ec3a7ce113134d7a93b817d10a8272cb61118579 # v2.4.0
         name: Checkout
         with:
-          ref: ${{ inputs.branch }}
           fetch-depth: 0
 
       - name: Configure Git
